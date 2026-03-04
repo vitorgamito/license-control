@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "issued_at": "2026-03-04T12:36:52.255Z",
+  "issued_at": "2026-03-04T12:41:11.115Z",
   "licenses": [
     {
       "key_hash": "459ff24b012a129d009ac2ee42831135d97cf1b42bbbe1a8fff05df2a70c3d73",
@@ -35,7 +35,7 @@
     {
       "key_hash": "a8c77d687a9ec0339723f0da3ab14fd3399bf4be31609910a619329bf7102fc0",
       "status": "active",
-      "guild_id": null,
+      "guild_id": "1422954808402509836",
       "expires_at": "2026-03-05T12:36:43.699Z"
     }
   ]
